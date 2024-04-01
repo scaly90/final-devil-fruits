@@ -1,0 +1,121 @@
+.navbar ul{
+
+list-style-type: none;
+background-color: CornflowerBlue;
+padding: 0px;
+margin: 0px;
+overflow: hidden;
+
+}
+
+.navbar a{
+
+color: white;
+text-decoration: none;
+text-align: center;
+padding: 15px; 
+display: block;
+
+}
+
+.navbar li{
+
+float: left;
+
+}
+
+.navbar a:hover{
+
+background-color: blue;
+
+}
+
+body {
+
+background-color:#08082b;
+
+}
+
+p{
+
+color: black;
+font-family: monospace;
+color: white; 
+text-align: center;
+
+}
+
+h1{
+
+font-family: monospace; 
+color: white; 
+text-align: center;
+
+
+}
+
+h2{
+
+font-family: monospace;
+text-align: center;  
+color: white;
+
+}
+
+h3{
+
+font-family: monospace; 
+color: white;
+text-align: center;
+
+}
+
+h4{
+
+font-family: monospace;
+text-align: center; 
+color: white;
+
+}
+
+h5{
+
+font-family: monospace;
+text-align: center;
+color: white; 
+
+}
+
+h6{
+
+font-family: monospace;
+text-align: center; 
+color: white; 
+
+}
+
+ul{
+
+font-family: monospace; 
+text-align: center;
+color: white; 
+
+}
+
+ol{
+
+font-family: monospace;
+text-align: center;
+color: white;
+
+}
+
+img{
+
+ width: 30em; 
+border: 10px solid white; 
+display: block; 
+margin-left: auto; 
+margin-right: auto;
+
+}
